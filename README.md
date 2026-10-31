@@ -336,6 +336,7 @@
 - [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
 - [RDM](https://github.com/avibrazil/RDM) - Easily set Mac Retina display to higher unsupported resolutions. [![Open-Source Software][OSS Icon]](https://github.com/avibrazil/RDM)
 - [SaneBar](https://sanebar.com) - Native menu bar manager with quick reveal controls and Touch ID lock.
+- [Screen Capture](https://github.com/nasadunadu/screen-capture-macos) - Native, private-by-design screenshot and scrolling long-capture utility with inline vector annotation and sticky-header/footer deduplication. [![Open-Source Software][OSS Icon]](https://github.com/nasadunadu/screen-capture-macos) ![Freeware][Freeware Icon]
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 - [Sleepless](https://github.com/Aboudjem/Sleepless) - Menu bar utility that keeps your MacBook awake with the lid closed on battery, with a battery-floor auto-off. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless) ![Freeware][Freeware Icon]
